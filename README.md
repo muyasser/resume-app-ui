@@ -2,7 +2,14 @@
 
 UI screenshot
 
+1
+
 ![alt text](https://raw.githubusercontent.com/muyasser/resume-app-ui/master/thumbnail.png)
+
+2
+
+![alt text](https://raw.githubusercontent.com/muyasser/resume-app-ui/master/Screenshot_1561308892.png)
+
 
 ## Getting Started
 
