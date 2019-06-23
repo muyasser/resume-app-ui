@@ -1,6 +1,8 @@
 # dev_resume_ui
 
-A new Flutter project.
+UI screenshot
+
+![alt text](https://raw.githubusercontent.com/muyasser/resume-app-ui/master/thumbnail.png)
 
 ## Getting Started
 
